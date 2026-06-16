@@ -1,1 +1,131 @@
-{"bait": {"43859": {"name": "Ghost Nipper", "misses": 2148, "total": 7929}, "43856": {"name": "Shucked Clam", "misses": 320, "total": 760}, "29717": {"name": "Versatile Lure", "misses": 3932, "total": 13156}}, "fish": {"43788": {"name": "Canal Bream", "tug": "1", "snagging": null, "hookset": 2}, "43790": {"name": "Canal Drum", "tug": "2", "snagging": null, "hookset": 1}, "43791": {"name": "Butterfly Ray", "tug": "2", "snagging": null, "hookset": 1}, "43789": {"name": "Iris Wrasse", "tug": "1", "snagging": null, "hookset": 2}, "43792": {"name": "Hydro Louvar", "tug": "2", "snagging": null, "hookset": 1}}, "rates": {"7.0  (2024-06-28) \u2014 present": {"43859": {"43788": {"catches": 1165, "bayesian_misses": 727, "bitetime_low": 8.5, "bitetime_high": 16.5}, "43789": {"catches": 1157, "bayesian_misses": 727, "bitetime_low": 7.0, "bitetime_high": 14.5}, "43791": {"catches": 1429, "bayesian_misses": 290, "bitetime_low": 13.0, "bitetime_high": 25.5}, "43790": {"catches": 1392, "bayesian_misses": 271, "bitetime_low": 14.5, "bitetime_high": 25.5}, "43792": {"catches": 638, "bayesian_misses": 42, "bitetime_low": 20.5, "bitetime_high": 34.5}}, "43856": {"43788": {"catches": 120, "bayesian_misses": 122, "bitetime_low": 8.5, "bitetime_high": 16.5}, "43789": {"catches": 136, "bayesian_misses": 144, "bitetime_low": 6.5, "bitetime_high": 15.5}, "43791": {"catches": 77, "bayesian_misses": 17, "bitetime_low": 16.0, "bitetime_high": 28.0}, "43790": {"catches": 107, "bayesian_misses": 31, "bitetime_low": 14.0, "bitetime_high": 26.0}}, "29717": {"43788": {"catches": 1914, "bayesian_misses": 1381, "bitetime_low": 11.0, "bitetime_high": 19.5}, "43789": {"catches": 1968, "bayesian_misses": 1289, "bitetime_low": 9.5, "bitetime_high": 16.5}, "43791": {"catches": 2354, "bayesian_misses": 475, "bitetime_low": 18.0, "bitetime_high": 30.5}, "43790": {"catches": 1942, "bayesian_misses": 517, "bitetime_low": 16.5, "bitetime_high": 27.5}, "43792": {"catches": 1046, "bayesian_misses": 137, "bitetime_low": 22.5, "bitetime_high": 36.5}}}}}
+{
+    "bait": {},
+    "fish": {
+        "43788": {
+            "name": "Canal Bream",
+            "snagging": false,
+            "tug": 1,
+            "hookset": 2
+        },
+        "43789": {
+            "name": "Iris Wrasse",
+            "snagging": false,
+            "tug": 1,
+            "hookset": 2
+        },
+        "43790": {
+            "name": "Canal Drum",
+            "snagging": false,
+            "tug": 2,
+            "hookset": 1
+        },
+        "43791": {
+            "name": "Butterfly Ray",
+            "snagging": false,
+            "tug": 2,
+            "hookset": 1
+        },
+        "43792": {
+            "name": "Hydro Louvar",
+            "snagging": false,
+            "tug": 2,
+            "hookset": 1
+        }
+    },
+    "rates": {
+        "The beginning of time \u2014 7.0  (2024-06-28)": {},
+        "7.0  (2024-06-28) \u2014 7.3  (2025-08-05)": {
+            "29717": {
+                "43789": {
+                    "catches": 1808,
+                    "bayesian_misses": 1130,
+                    "bitetime_low": 10.0,
+                    "bitetime_high": 16.0
+                },
+                "43788": {
+                    "catches": 1741,
+                    "bayesian_misses": 1217,
+                    "bitetime_low": 11.5,
+                    "bitetime_high": 19.0
+                },
+                "43792": {
+                    "catches": 732,
+                    "bayesian_misses": 48,
+                    "bitetime_low": 23.0,
+                    "bitetime_high": 36.0
+                },
+                "43790": {
+                    "catches": 1229,
+                    "bayesian_misses": 479,
+                    "bitetime_low": 16.5,
+                    "bitetime_high": 27.0
+                },
+                "43791": {
+                    "catches": 1451,
+                    "bayesian_misses": 50,
+                    "bitetime_low": 18.0,
+                    "bitetime_high": 30.0
+                }
+            },
+            "43859": {
+                "43791": {
+                    "catches": 815,
+                    "bayesian_misses": 299,
+                    "bitetime_low": 13.0,
+                    "bitetime_high": 25.0
+                },
+                "43790": {
+                    "catches": 822,
+                    "bayesian_misses": 7,
+                    "bitetime_low": 14.5,
+                    "bitetime_high": 25.0
+                },
+                "43792": {
+                    "catches": 369,
+                    "bayesian_misses": 24,
+                    "bitetime_low": 20.5,
+                    "bitetime_high": 34.0
+                },
+                "43788": {
+                    "catches": 1079,
+                    "bayesian_misses": 524,
+                    "bitetime_low": 8.5,
+                    "bitetime_high": 16.0
+                },
+                "43789": {
+                    "catches": 1078,
+                    "bayesian_misses": 654,
+                    "bitetime_low": 7.0,
+                    "bitetime_high": 13.0
+                }
+            },
+            "43856": {
+                "43790": {
+                    "catches": 74,
+                    "bayesian_misses": 30,
+                    "bitetime_low": 14.5,
+                    "bitetime_high": 25.0
+                },
+                "43791": {
+                    "catches": 48,
+                    "bayesian_misses": 4,
+                    "bitetime_low": 16.5,
+                    "bitetime_high": 28.0
+                },
+                "43789": {
+                    "catches": 126,
+                    "bayesian_misses": 96,
+                    "bitetime_low": 7.0,
+                    "bitetime_high": 13.0
+                },
+                "43788": {
+                    "catches": 111,
+                    "bayesian_misses": 119,
+                    "bitetime_low": 8.5,
+                    "bitetime_high": 16.5
+                }
+            }
+        },
+        "7.3  (2025-08-05) \u2014 present": {}
+    }
+}

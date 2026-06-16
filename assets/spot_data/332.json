@@ -1,1 +1,131 @@
-{"bait": {"43859": {"name": "Ghost Nipper", "misses": 42387, "total": 99932}, "43856": {"name": "Shucked Clam", "misses": 1129, "total": 6667}, "29717": {"name": "Versatile Lure", "misses": 6219, "total": 17287}}, "fish": {"43789": {"name": "Iris Wrasse", "tug": "1", "snagging": null, "hookset": 2}, "43788": {"name": "Canal Bream", "tug": "1", "snagging": null, "hookset": 2}, "43795": {"name": "Copper Shark", "tug": "2", "hookset": 1, "snagging": null}, "43794": {"name": "Forgotten One", "tug": "2", "snagging": null, "hookset": 1}, "43793": {"name": "Devotion Clam", "tug": "1", "snagging": null, "hookset": 2}}, "rates": {"7.0  (2024-06-28) \u2014 present": {"43859": {"43788": {"catches": 2961, "bayesian_misses": 17238, "bitetime_low": 8.5, "bitetime_high": 18.5}, "43793": {"catches": 189, "bayesian_misses": 1015, "bitetime_low": 10.0, "bitetime_high": 19.5}, "43789": {"catches": 2998, "bayesian_misses": 16889, "bitetime_low": 7.0, "bitetime_high": 18.0}, "43795": {"catches": 28618, "bayesian_misses": 1247, "bitetime_low": 20.0, "bitetime_high": 32.0}, "43794": {"catches": 22779, "bayesian_misses": 5495, "bitetime_low": 9.0, "bitetime_high": 18.0}}, "43856": {"43788": {"catches": 1908, "bayesian_misses": 267, "bitetime_low": 8.0, "bitetime_high": 16.5}, "43793": {"catches": 1016, "bayesian_misses": 112, "bitetime_low": 10.0, "bitetime_high": 19.5}, "43789": {"catches": 1830, "bayesian_misses": 307, "bitetime_low": 7.0, "bitetime_high": 15.5}, "43794": {"catches": 784, "bayesian_misses": 432, "bitetime_low": 8.5, "bitetime_high": 16.5}}, "29717": {"43788": {"catches": 2073, "bayesian_misses": 1977, "bitetime_low": 11.5, "bitetime_high": 19.5}, "43793": {"catches": 674, "bayesian_misses": 511, "bitetime_low": 13.0, "bitetime_high": 22.0}, "43789": {"catches": 2076, "bayesian_misses": 1888, "bitetime_low": 10.0, "bitetime_high": 17.0}, "43795": {"catches": 2400, "bayesian_misses": 162, "bitetime_low": 22.0, "bitetime_high": 34.0}, "43794": {"catches": 3845, "bayesian_misses": 1603, "bitetime_low": 11.5, "bitetime_high": 20.0}}}}}
+{
+    "bait": {},
+    "fish": {
+        "43788": {
+            "name": "Canal Bream",
+            "snagging": false,
+            "tug": 1,
+            "hookset": 2
+        },
+        "43789": {
+            "name": "Iris Wrasse",
+            "snagging": false,
+            "tug": 1,
+            "hookset": 2
+        },
+        "43793": {
+            "name": "Devotion Clam",
+            "snagging": true,
+            "tug": 1,
+            "hookset": 2
+        },
+        "43794": {
+            "name": "Forgotten One",
+            "snagging": false,
+            "tug": 2,
+            "hookset": 1
+        },
+        "43795": {
+            "name": "Copper Shark",
+            "snagging": false,
+            "tug": 2,
+            "hookset": 1
+        }
+    },
+    "rates": {
+        "The beginning of time \u2014 7.0  (2024-06-28)": {},
+        "7.0  (2024-06-28) \u2014 7.5  (2026-04-29)": {
+            "43856": {
+                "43793": {
+                    "catches": 965,
+                    "bayesian_misses": 89,
+                    "bitetime_low": 10.0,
+                    "bitetime_high": 19.0
+                },
+                "43788": {
+                    "catches": 1710,
+                    "bayesian_misses": 130,
+                    "bitetime_low": 8.5,
+                    "bitetime_high": 16.5
+                },
+                "43789": {
+                    "catches": 1617,
+                    "bayesian_misses": 551,
+                    "bitetime_low": 7.0,
+                    "bitetime_high": 15.5
+                },
+                "43794": {
+                    "catches": 764.8666666666667,
+                    "bayesian_misses": 430.0,
+                    "bitetime_low": 8.5,
+                    "bitetime_high": 16.0
+                }
+            },
+            "29717": {
+                "43795": {
+                    "catches": 650,
+                    "bayesian_misses": 43,
+                    "bitetime_low": 22.5,
+                    "bitetime_high": 33.5
+                },
+                "43794": {
+                    "catches": 2031,
+                    "bayesian_misses": 572,
+                    "bitetime_low": 12.0,
+                    "bitetime_high": 20.0
+                },
+                "43789": {
+                    "catches": 1978,
+                    "bayesian_misses": 1546,
+                    "bitetime_low": 10.0,
+                    "bitetime_high": 16.5
+                },
+                "43788": {
+                    "catches": 1973,
+                    "bayesian_misses": 2629,
+                    "bitetime_low": 11.5,
+                    "bitetime_high": 19.5
+                },
+                "43793": {
+                    "catches": 627,
+                    "bayesian_misses": 310,
+                    "bitetime_low": 13.0,
+                    "bitetime_high": 22.0
+                }
+            },
+            "43859": {
+                "43793": {
+                    "catches": 186,
+                    "bayesian_misses": 186,
+                    "bitetime_low": 10.0,
+                    "bitetime_high": 19.0
+                },
+                "43788": {
+                    "catches": 2947,
+                    "bayesian_misses": 21109,
+                    "bitetime_low": 9.0,
+                    "bitetime_high": 18.5
+                },
+                "43789": {
+                    "catches": 2981,
+                    "bayesian_misses": 12398,
+                    "bitetime_low": 7.0,
+                    "bitetime_high": 18.0
+                },
+                "43795": {
+                    "catches": 7514,
+                    "bayesian_misses": 315,
+                    "bitetime_low": 20.5,
+                    "bitetime_high": 31.5
+                },
+                "43794": {
+                    "catches": 8077,
+                    "bayesian_misses": 1674,
+                    "bitetime_low": 9.0,
+                    "bitetime_high": 17.5
+                }
+            }
+        },
+        "7.5  (2026-04-29) \u2014 present": {}
+    }
+}
