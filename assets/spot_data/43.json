@@ -4423,7 +4423,7 @@
             "name": "Caterwauler",
             "snagging": false,
             "tug": 3,
-            "hookset": 2
+            "hookset": null
         }
     },
     "rates": {
@@ -4432,101 +4432,95 @@
                 "4936": {
                     "catches": 131.0,
                     "bayesian_misses": 23.0,
-                    "bitetime_low": 12.0,
-                    "bitetime_high": 27.5
+                    "bitetime_low": 8.5,
+                    "bitetime_high": 37.5
                 },
-                "4934": {
-                    "catches": 153,
-                    "bayesian_misses": 36,
+                "4931": {
+                    "catches": 147,
+                    "bayesian_misses": 21,
                     "bitetime_low": 12.0,
-                    "bitetime_high": 18.5
-                },
-                "4925": {
-                    "catches": 124,
-                    "bayesian_misses": 36,
-                    "bitetime_low": 9.5,
-                    "bitetime_high": 15.5
+                    "bitetime_high": 18.0
                 },
                 "4928": {
                     "catches": 138,
-                    "bayesian_misses": 36,
+                    "bayesian_misses": 21,
+                    "bitetime_low": 12.0,
+                    "bitetime_high": 18.0
+                },
+                "4925": {
+                    "catches": 124,
+                    "bayesian_misses": 184,
+                    "bitetime_low": 9.5,
+                    "bitetime_high": 15.5
+                },
+                "4926": {
+                    "catches": 118,
+                    "bayesian_misses": 21,
                     "bitetime_low": 12.0,
                     "bitetime_high": 18.0
                 },
                 "4930": {
                     "catches": 285,
-                    "bayesian_misses": 36,
+                    "bayesian_misses": 0,
                     "bitetime_low": 10.0,
                     "bitetime_high": 16.0
                 },
-                "4931": {
-                    "catches": 147,
-                    "bayesian_misses": 36,
+                "4934": {
+                    "catches": 153,
+                    "bayesian_misses": 21,
                     "bitetime_low": 12.0,
-                    "bitetime_high": 18.0
-                },
-                "4926": {
-                    "catches": 118,
-                    "bayesian_misses": 36,
-                    "bitetime_low": 12.0,
-                    "bitetime_high": 18.0
+                    "bitetime_high": 18.5
                 }
             },
             "2586": {
-                "4925": {
-                    "catches": 3117,
-                    "bayesian_misses": 3035,
-                    "bitetime_low": 8.5,
-                    "bitetime_high": 13.0
+                "4928": {
+                    "catches": 3166,
+                    "bayesian_misses": 2196,
+                    "bitetime_low": 10.0,
+                    "bitetime_high": 16.0
                 },
                 "4926": {
                     "catches": 3172,
-                    "bayesian_misses": 2102,
+                    "bayesian_misses": 2196,
                     "bitetime_low": 10.0,
                     "bitetime_high": 16.0
+                },
+                "4925": {
+                    "catches": 3117,
+                    "bayesian_misses": 2777,
+                    "bitetime_low": 8.5,
+                    "bitetime_high": 13.0
                 },
                 "4930": {
                     "catches": 2020,
-                    "bayesian_misses": 1387,
+                    "bayesian_misses": 1528,
                     "bitetime_low": 12.0,
                     "bitetime_high": 18.0
-                },
-                "4928": {
-                    "catches": 3166,
-                    "bayesian_misses": 2102,
-                    "bitetime_low": 10.0,
-                    "bitetime_high": 16.0
                 },
                 "7681": {
                     "catches": 809.0,
                     "bayesian_misses": 228.0,
-                    "bitetime_low": 21.0,
-                    "bitetime_high": 33.0
+                    "bitetime_low": 20.0,
+                    "bitetime_high": 52.5
                 }
             },
             "2588": {
                 "4936": {
                     "catches": 176.0,
                     "bayesian_misses": 8.0,
-                    "bitetime_low": 12.0,
-                    "bitetime_high": 24.5
+                    "bitetime_low": 11.0,
+                    "bitetime_high": 27.0
                 },
-                "4928": {
-                    "catches": 106,
-                    "bayesian_misses": 3,
-                    "bitetime_low": 13.0,
-                    "bitetime_high": 19.0
+                "4930": {
+                    "catches": 501,
+                    "bayesian_misses": 18,
+                    "bitetime_low": 7.0,
+                    "bitetime_high": 13.0
                 },
                 "4925": {
                     "catches": 125,
                     "bayesian_misses": 3,
                     "bitetime_low": 11.5,
-                    "bitetime_high": 16.0
-                },
-                "4931": {
-                    "catches": 276,
-                    "bayesian_misses": 3,
-                    "bitetime_low": 10.0,
                     "bitetime_high": 16.0
                 },
                 "4934": {
@@ -4535,17 +4529,23 @@
                     "bitetime_low": 10.0,
                     "bitetime_high": 16.0
                 },
-                "4930": {
-                    "catches": 501,
-                    "bayesian_misses": 19,
-                    "bitetime_low": 7.0,
-                    "bitetime_high": 13.0
+                "4928": {
+                    "catches": 106,
+                    "bayesian_misses": 3,
+                    "bitetime_low": 13.0,
+                    "bitetime_high": 19.0
                 },
                 "4926": {
                     "catches": 113,
                     "bayesian_misses": 3,
                     "bitetime_low": 13.0,
                     "bitetime_high": 19.0
+                },
+                "4931": {
+                    "catches": 276,
+                    "bayesian_misses": 3,
+                    "bitetime_low": 10.0,
+                    "bitetime_high": 16.0
                 }
             }
         }

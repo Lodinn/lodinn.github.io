@@ -2945,91 +2945,91 @@
             "name": "Foun Ahlm",
             "snagging": false,
             "tug": 3,
-            "hookset": 1
+            "hookset": null
         }
     },
     "rates": {
         "The beginning of time \u2014 present": {
             "36594": {
-                "36487": {
-                    "catches": 1582,
-                    "bayesian_misses": 2729,
+                "36494": {
+                    "catches": 1417,
+                    "bayesian_misses": 56,
+                    "bitetime_low": 14.0,
+                    "bitetime_high": 25.0
+                },
+                "36488": {
+                    "catches": 2420,
+                    "bayesian_misses": 263,
                     "bitetime_low": 10.0,
                     "bitetime_high": 19.0
                 },
                 "36492": {
                     "catches": 818,
-                    "bayesian_misses": 1380,
+                    "bayesian_misses": 1348,
                     "bitetime_low": 14.5,
                     "bitetime_high": 25.0
                 },
-                "36488": {
-                    "catches": 2420,
-                    "bayesian_misses": 279,
+                "36487": {
+                    "catches": 1582,
+                    "bayesian_misses": 2591,
                     "bitetime_low": 10.0,
                     "bitetime_high": 19.0
-                },
-                "36494": {
-                    "catches": 1417,
-                    "bayesian_misses": 57,
-                    "bitetime_low": 14.0,
-                    "bitetime_high": 25.0
                 }
             },
             "36595": {
-                "36492": {
-                    "catches": 2173,
-                    "bayesian_misses": 4347,
-                    "bitetime_low": 11.5,
-                    "bitetime_high": 22.0
-                },
-                "36487": {
-                    "catches": 3444,
-                    "bayesian_misses": 8057,
-                    "bitetime_low": 10.0,
-                    "bitetime_high": 19.0
-                },
                 "36684": {
                     "catches": 424.0,
                     "bayesian_misses": 124.0,
-                    "bitetime_low": 18.0,
-                    "bitetime_high": 27.0
+                    "bitetime_low": 16.5,
+                    "bitetime_high": 27.5
+                },
+                "36487": {
+                    "catches": 3444,
+                    "bayesian_misses": 7662,
+                    "bitetime_low": 10.0,
+                    "bitetime_high": 19.0
+                },
+                "36492": {
+                    "catches": 2173,
+                    "bayesian_misses": 4324,
+                    "bitetime_low": 11.5,
+                    "bitetime_high": 22.0
                 },
                 "36488": {
                     "catches": 4091,
-                    "bayesian_misses": 2903,
+                    "bayesian_misses": 2865,
                     "bitetime_low": 10.0,
                     "bitetime_high": 19.0
                 },
                 "36494": {
                     "catches": 3865,
-                    "bayesian_misses": 1254,
+                    "bayesian_misses": 1211,
                     "bitetime_low": 13.0,
                     "bitetime_high": 22.0
                 }
             },
             "29717": {
-                "36488": {
-                    "catches": 1934,
-                    "bayesian_misses": 216,
-                    "bitetime_low": 13.0,
-                    "bitetime_high": 22.0
-                },
-                "36494": {
-                    "catches": 1212,
-                    "bayesian_misses": 63,
-                    "bitetime_low": 15.5,
-                    "bitetime_high": 25.0
-                },
                 "36492": {
                     "catches": 1033,
-                    "bayesian_misses": 617,
+                    "bayesian_misses": 609,
                     "bitetime_low": 16.5,
                     "bitetime_high": 27.0
                 },
                 "36487": {
                     "catches": 1660,
-                    "bayesian_misses": 1069,
+                    "bayesian_misses": 1039,
+                    "bitetime_low": 13.0,
+                    "bitetime_high": 22.0
+                },
+                "36494": {
+                    "catches": 1212,
+                    "bayesian_misses": 59,
+                    "bitetime_low": 15.5,
+                    "bitetime_high": 25.0
+                },
+                "36488": {
+                    "catches": 1934,
+                    "bayesian_misses": 210,
                     "bitetime_low": 13.0,
                     "bitetime_high": 22.0
                 }

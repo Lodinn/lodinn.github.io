@@ -4612,7 +4612,7 @@
             "name": "Lavalord",
             "snagging": false,
             "tug": 3,
-            "hookset": 1
+            "hookset": null
         },
         "14215": {
             "name": "Lava Snail",
@@ -4624,13 +4624,13 @@
             "name": "The Lord of Lords",
             "snagging": false,
             "tug": 3,
-            "hookset": 1
+            "hookset": null
         },
         "17588": {
             "name": "Problematicus",
             "snagging": false,
             "tug": 3,
-            "hookset": 1
+            "hookset": null
         }
     },
     "rates": {
@@ -4639,24 +4639,24 @@
                 "12800": {
                     "catches": 1118.0,
                     "bayesian_misses": 312.0,
-                    "bitetime_low": 15.0,
-                    "bitetime_high": 24.0
+                    "bitetime_low": 8.5,
+                    "bitetime_high": 24.5
                 },
                 "12754": {
                     "catches": 935,
-                    "bayesian_misses": 281,
+                    "bayesian_misses": 271,
                     "bitetime_low": 13.5,
                     "bitetime_high": 21.0
                 },
                 "12759": {
                     "catches": 222,
-                    "bayesian_misses": 8,
+                    "bayesian_misses": 11,
                     "bitetime_low": 18.5,
                     "bitetime_high": 29.5
                 },
                 "14215": {
                     "catches": 56,
-                    "bayesian_misses": 11,
+                    "bayesian_misses": 12,
                     "bitetime_low": 20.0,
                     "bitetime_high": 29.0
                 }
@@ -4665,8 +4665,14 @@
                 "12754": {
                     "catches": 24676.0,
                     "bayesian_misses": 1053.0,
-                    "bitetime_low": 11.5,
-                    "bitetime_high": 19.0
+                    "bitetime_low": 6.5,
+                    "bitetime_high": 19.5
+                },
+                "12787": {
+                    "catches": 319.0,
+                    "bayesian_misses": 239.0,
+                    "bitetime_low": 12.0,
+                    "bitetime_high": 26.5
                 },
                 "17584": {
                     "catches": 131,
@@ -4676,91 +4682,85 @@
                 },
                 "17588": {
                     "catches": 68,
-                    "bayesian_misses": 1275,
+                    "bayesian_misses": 1071,
                     "bitetime_low": 19.0,
                     "bitetime_high": 33.0
                 },
                 "12832": {
                     "catches": 478,
-                    "bayesian_misses": 0,
+                    "bayesian_misses": 137,
                     "bitetime_low": 15.5,
                     "bitetime_high": 28.5
-                },
-                "12787": {
-                    "catches": 319.0,
-                    "bayesian_misses": 239.0,
-                    "bitetime_low": 15.0,
-                    "bitetime_high": 26.5
                 }
             },
             "12709": {
-                "12800": {
-                    "catches": 8930,
-                    "bayesian_misses": 2097,
-                    "bitetime_low": 13.0,
-                    "bitetime_high": 22.0
-                },
                 "12787": {
                     "catches": 65,
-                    "bayesian_misses": 16,
+                    "bayesian_misses": 175,
                     "bitetime_low": 14.5,
                     "bitetime_high": 26.5
                 },
-                "12832": {
-                    "catches": 45,
-                    "bayesian_misses": 53,
-                    "bitetime_low": 17.0,
-                    "bitetime_high": 28.0
-                },
-                "17584": {
-                    "catches": 10,
-                    "bayesian_misses": 24,
-                    "bitetime_low": 18.5,
-                    "bitetime_high": 27.5
+                "12800": {
+                    "catches": 8930,
+                    "bayesian_misses": 1965,
+                    "bitetime_low": 13.0,
+                    "bitetime_high": 22.0
                 },
                 "12759": {
                     "catches": 1629,
-                    "bayesian_misses": 26,
+                    "bayesian_misses": 139,
                     "bitetime_low": 17.5,
                     "bitetime_high": 28.5
                 },
                 "12754": {
                     "catches": 7517,
-                    "bayesian_misses": 1868,
+                    "bayesian_misses": 1795,
                     "bitetime_low": 11.5,
                     "bitetime_high": 19.0
                 },
                 "14215": {
                     "catches": 541,
-                    "bayesian_misses": 130,
+                    "bayesian_misses": 79,
                     "bitetime_low": 18.0,
                     "bitetime_high": 27.0
+                },
+                "17584": {
+                    "catches": 10,
+                    "bayesian_misses": 23,
+                    "bitetime_low": 18.5,
+                    "bitetime_high": 27.5
+                },
+                "12832": {
+                    "catches": 45,
+                    "bayesian_misses": 51,
+                    "bitetime_low": 17.0,
+                    "bitetime_high": 28.0
                 }
             },
             "12754": {
                 "17588": {
                     "catches": 582,
-                    "bayesian_misses": 1555,
+                    "bayesian_misses": 1527,
                     "bitetime_low": 19.5,
                     "bitetime_high": 32.5
                 },
                 "17584": {
                     "catches": 1044,
-                    "bayesian_misses": 342,
+                    "bayesian_misses": 359,
                     "bitetime_low": 17.5,
                     "bitetime_high": 28.5
                 },
                 "12832": {
                     "catches": 3659,
-                    "bayesian_misses": 342,
+                    "bayesian_misses": 359,
                     "bitetime_low": 17.5,
                     "bitetime_high": 28.5
                 },
                 "12787": {
                     "catches": 3542.0,
                     "bayesian_misses": 2636.0,
-                    "bitetime_low": 15.5,
-                    "bitetime_high": 26.5
+                    "bitetime_low": 14.0,
+                    "bitetime_high": 27.0
                 }
             }
         }

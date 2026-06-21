@@ -2,8 +2,8 @@
     "bait": {
         "29717": {
             "name": "Versatile Lure",
-            "misses": 155,
-            "total": 1318,
+            "misses": 1805,
+            "total": 12028,
             "bitetimes": {
                 "43667": {
                     "chummed_bins": [
@@ -1339,8 +1339,8 @@
         },
         "43850": {
             "name": "Crimson Lugworm",
-            "misses": 506,
-            "total": 5455,
+            "misses": 10483,
+            "total": 73054,
             "bitetimes": {
                 "43667": {
                     "chummed_bins": [
@@ -2596,8 +2596,8 @@
         },
         "43856": {
             "name": "Shucked Clam",
-            "misses": 15,
-            "total": 1104,
+            "misses": 16,
+            "total": 1298,
             "bitetimes": {
                 "43667": {
                     "chummed_bins": [
@@ -5437,74 +5437,74 @@
             "name": "Purse of Riches",
             "snagging": false,
             "tug": 3,
-            "hookset": 1
+            "hookset": null
         }
     },
     "rates": {
         "The beginning of time \u2014 7.0  (2024-06-28)": {},
         "7.0  (2024-06-28) \u2014 7.4  (2025-12-16)": {
             "29717": {
-                "43674": {
-                    "catches": 884,
-                    "bayesian_misses": 132,
-                    "bitetime_low": 21.0,
-                    "bitetime_high": 33.0
+                "43672": {
+                    "catches": 1344,
+                    "bayesian_misses": 194,
+                    "bitetime_low": 13.0,
+                    "bitetime_high": 19.0
                 },
                 "43903": {
                     "catches": 1734,
-                    "bayesian_misses": 37,
+                    "bayesian_misses": 40,
                     "bitetime_low": 14.5,
                     "bitetime_high": 22.0
                 },
+                "43674": {
+                    "catches": 884,
+                    "bayesian_misses": 129,
+                    "bitetime_low": 21.0,
+                    "bitetime_high": 33.0
+                },
                 "43673": {
                     "catches": 1292,
-                    "bayesian_misses": 127,
+                    "bayesian_misses": 130,
                     "bitetime_low": 17.5,
                     "bitetime_high": 28.0
-                },
-                "43672": {
-                    "catches": 1344,
-                    "bayesian_misses": 206,
-                    "bitetime_low": 13.0,
-                    "bitetime_high": 19.0
                 },
                 "43667": {
                     "catches": 3806.0,
                     "bayesian_misses": 1110.0,
-                    "bitetime_low": 10.0,
-                    "bitetime_high": 16.0
+                    "bitetime_low": 7.0,
+                    "bitetime_high": 58.5
                 }
             },
             "43850": {
                 "43673": {
                     "catches": 8103,
-                    "bayesian_misses": 797,
+                    "bayesian_misses": 852,
                     "bitetime_low": 16.5,
                     "bitetime_high": 27.0
                 },
                 "43903": {
                     "catches": 14660,
-                    "bayesian_misses": 845,
+                    "bayesian_misses": 818,
                     "bitetime_low": 11.5,
                     "bitetime_high": 19.0
                 },
                 "43672": {
                     "catches": 8171,
-                    "bayesian_misses": 619,
+                    "bayesian_misses": 600,
                     "bitetime_low": 12.0,
                     "bitetime_high": 18.0
                 },
                 "43674": {
                     "catches": 5333,
-                    "bayesian_misses": 678,
+                    "bayesian_misses": 631,
                     "bitetime_low": 19.0,
                     "bitetime_high": 31.0
                 },
                 "43667": {
                     "catches": 21355.0,
                     "bayesian_misses": 7162.0,
-                    "bitetime_low": 7.0,
-                    "bitetime_high": 13.0
+                    "bitetime_low": 6.5,
+                    "bitetime_high": 21.5
                 }
             }
         },
@@ -5517,7 +5517,83 @@
                     "bitetime_high": 28.0
                 }
             },
+            "43859": {
+                "43672": {
+                    "catches": 686,
+                    "bayesian_misses": 12,
+                    "bitetime_low": 11.5,
+                    "bitetime_high": 18.0
+                },
+                "43673": {
+                    "catches": 718,
+                    "bayesian_misses": 9,
+                    "bitetime_low": 16.0,
+                    "bitetime_high": 27.0
+                },
+                "43674": {
+                    "catches": 649,
+                    "bayesian_misses": 8,
+                    "bitetime_low": 18.5,
+                    "bitetime_high": 31.0
+                },
+                "43667": {
+                    "catches": 726.0,
+                    "bayesian_misses": 17.0,
+                    "bitetime_low": 6.5,
+                    "bitetime_high": 18.5
+                },
+                "49794": {
+                    "catches": 57.0,
+                    "bayesian_misses": 14.0,
+                    "bitetime_low": 18.0,
+                    "bitetime_high": 26.5
+                }
+            },
+            "43850": {
+                "43667": {
+                    "catches": 1967.0,
+                    "bayesian_misses": 298.0,
+                    "bitetime_low": 4.5,
+                    "bitetime_high": 23.5
+                },
+                "43672": {
+                    "catches": 758,
+                    "bayesian_misses": 52,
+                    "bitetime_low": 12.0,
+                    "bitetime_high": 18.5
+                },
+                "43673": {
+                    "catches": 713,
+                    "bayesian_misses": 69,
+                    "bitetime_low": 16.5,
+                    "bitetime_high": 27.0
+                },
+                "43674": {
+                    "catches": 504,
+                    "bayesian_misses": 55,
+                    "bitetime_low": 19.0,
+                    "bitetime_high": 31.0
+                },
+                "43903": {
+                    "catches": 1007,
+                    "bayesian_misses": 35,
+                    "bitetime_low": 11.5,
+                    "bitetime_high": 19.0
+                }
+            },
             "43856": {
+                "43667": {
+                    "catches": 467.0,
+                    "bayesian_misses": 9.0,
+                    "bitetime_low": 8.0,
+                    "bitetime_high": 22.5
+                },
+                "43674": {
+                    "catches": 170,
+                    "bayesian_misses": 4,
+                    "bitetime_low": 19.0,
+                    "bitetime_high": 30.5
+                },
                 "43903": {
                     "catches": 10,
                     "bayesian_misses": 0,
@@ -5535,64 +5611,26 @@
                     "bayesian_misses": 3,
                     "bitetime_low": 17.0,
                     "bitetime_high": 28.0
-                },
-                "43674": {
-                    "catches": 170,
-                    "bayesian_misses": 5,
-                    "bitetime_low": 19.0,
-                    "bitetime_high": 30.5
-                },
-                "43667": {
-                    "catches": 467.0,
-                    "bayesian_misses": 9.0,
-                    "bitetime_low": 9.5,
-                    "bitetime_high": 16.0
-                }
-            },
-            "43850": {
-                "43667": {
-                    "catches": 1967.0,
-                    "bayesian_misses": 298.0,
-                    "bitetime_low": 7.0,
-                    "bitetime_high": 18.0
-                },
-                "43672": {
-                    "catches": 758,
-                    "bayesian_misses": 31,
-                    "bitetime_low": 12.0,
-                    "bitetime_high": 18.5
-                },
-                "43903": {
-                    "catches": 1007,
-                    "bayesian_misses": 59,
-                    "bitetime_low": 11.5,
-                    "bitetime_high": 19.0
-                },
-                "43673": {
-                    "catches": 713,
-                    "bayesian_misses": 51,
-                    "bitetime_low": 16.5,
-                    "bitetime_high": 27.0
-                },
-                "43674": {
-                    "catches": 504,
-                    "bayesian_misses": 70,
-                    "bitetime_low": 19.0,
-                    "bitetime_high": 31.0
                 }
             },
             "29717": {
                 "43667": {
                     "catches": 570.0,
                     "bayesian_misses": 115.0,
-                    "bitetime_low": 7.0,
-                    "bitetime_high": 21.0
+                    "bitetime_low": 4.0,
+                    "bitetime_high": 25.5
                 },
-                "43672": {
-                    "catches": 185,
-                    "bayesian_misses": 10,
-                    "bitetime_low": 11.0,
-                    "bitetime_high": 19.5
+                "43673": {
+                    "catches": 183,
+                    "bayesian_misses": 21,
+                    "bitetime_low": 16.5,
+                    "bitetime_high": 28.0
+                },
+                "43674": {
+                    "catches": 134,
+                    "bayesian_misses": 7,
+                    "bitetime_low": 20.0,
+                    "bitetime_high": 33.0
                 },
                 "43903": {
                     "catches": 87,
@@ -5600,49 +5638,11 @@
                     "bitetime_low": 14.5,
                     "bitetime_high": 22.0
                 },
-                "43673": {
-                    "catches": 183,
-                    "bayesian_misses": 20,
-                    "bitetime_low": 16.5,
-                    "bitetime_high": 28.0
-                },
-                "43674": {
-                    "catches": 134,
-                    "bayesian_misses": 8,
-                    "bitetime_low": 20.0,
-                    "bitetime_high": 33.0
-                }
-            },
-            "43859": {
-                "49794": {
-                    "catches": 57.0,
-                    "bayesian_misses": 14.0,
-                    "bitetime_low": 18.5,
-                    "bitetime_high": 26.5
-                },
-                "43674": {
-                    "catches": 649,
-                    "bayesian_misses": 8,
-                    "bitetime_low": 18.5,
-                    "bitetime_high": 31.0
-                },
-                "43673": {
-                    "catches": 718,
-                    "bayesian_misses": 9,
-                    "bitetime_low": 16.0,
-                    "bitetime_high": 27.0
-                },
                 "43672": {
-                    "catches": 686,
-                    "bayesian_misses": 12,
-                    "bitetime_low": 11.5,
-                    "bitetime_high": 18.0
-                },
-                "43667": {
-                    "catches": 726.0,
-                    "bayesian_misses": 17.0,
+                    "catches": 185,
+                    "bayesian_misses": 10,
                     "bitetime_low": 11.0,
-                    "bitetime_high": 18.0
+                    "bitetime_high": 19.5
                 }
             }
         }

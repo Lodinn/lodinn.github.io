@@ -1,256 +1,9 @@
 {
     "bait": {
-        "43852": {
-            "name": "Honeybee",
-            "misses": 23,
-            "total": 85,
-            "bitetimes": {
-                "43708": {
-                    "chummed_bins": [
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        2,
-                        0,
-                        0,
-                        3,
-                        1,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "chummed_kde": [
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.039,
-                        0.957,
-                        0.957,
-                        0.05,
-                        0.767,
-                        2.435,
-                        0.759,
-                        0.029,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0
-                    ],
-                    "unchummed_bins": [
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        3,
-                        2,
-                        4,
-                        4,
-                        3,
-                        1,
-                        2,
-                        1,
-                        4,
-                        2,
-                        1,
-                        2,
-                        3,
-                        1,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "unchummed_kde": [
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0165,
-                        0.1155,
-                        0.528,
-                        1.287,
-                        2.0955,
-                        2.7720000000000002,
-                        3.201,
-                        3.0524999999999998,
-                        2.4915,
-                        2.0625,
-                        2.0955,
-                        2.3924999999999996,
-                        2.409,
-                        1.98,
-                        1.6829999999999998,
-                        1.782,
-                        1.6335000000000002,
-                        0.9734999999999999,
-                        0.33,
-                        0.066,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0
-                    ]
-                },
-                "43709": {
-                    "chummed_bins": [],
-                    "chummed_kde": [],
-                    "unchummed_bins": [
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        0,
-                        3,
-                        1,
-                        1,
-                        1,
-                        1,
-                        1,
-                        0,
-                        0,
-                        2,
-                        1,
-                        1,
-                        1,
-                        2,
-                        1,
-                        4,
-                        1,
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "unchummed_kde": [
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.021,
-                        0.105,
-                        0.294,
-                        0.609,
-                        0.9239999999999999,
-                        1.1025,
-                        1.1025,
-                        1.0395,
-                        0.966,
-                        0.8505,
-                        0.7140000000000001,
-                        0.6615,
-                        0.7559999999999999,
-                        0.9239999999999999,
-                        1.071,
-                        1.2285000000000001,
-                        1.449,
-                        1.7115,
-                        1.8375,
-                        1.638,
-                        1.134,
-                        0.588,
-                        0.2205,
-                        0.063
-                    ]
-                }
-            }
-        },
         "43855": {
             "name": "Popper Lure",
-            "misses": 2537,
-            "total": 3170,
+            "misses": 28415,
+            "total": 53528,
             "bitetimes": {
                 "43708": {
                     "chummed_bins": [
@@ -1236,8 +989,8 @@
         },
         "29717": {
             "name": "Versatile Lure",
-            "misses": 20,
-            "total": 280,
+            "misses": 6600,
+            "total": 13663,
             "bitetimes": {
                 "43708": {
                     "chummed_bins": [],
@@ -1827,8 +1580,8 @@
         },
         "43849": {
             "name": "Golden Stonefly Nymph",
-            "misses": 21,
-            "total": 517,
+            "misses": 1032,
+            "total": 13548,
             "bitetimes": {
                 "43708": {
                     "chummed_bins": [
@@ -2199,6 +1952,253 @@
                     ]
                 }
             }
+        },
+        "43852": {
+            "name": "Honeybee",
+            "misses": 268,
+            "total": 3716,
+            "bitetimes": {
+                "43708": {
+                    "chummed_bins": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        2,
+                        0,
+                        0,
+                        3,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "chummed_kde": [
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.039,
+                        0.957,
+                        0.957,
+                        0.05,
+                        0.767,
+                        2.435,
+                        0.759,
+                        0.029,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "unchummed_bins": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        3,
+                        2,
+                        4,
+                        4,
+                        3,
+                        1,
+                        2,
+                        1,
+                        4,
+                        2,
+                        1,
+                        2,
+                        3,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "unchummed_kde": [
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0165,
+                        0.1155,
+                        0.528,
+                        1.287,
+                        2.0955,
+                        2.7720000000000002,
+                        3.201,
+                        3.0524999999999998,
+                        2.4915,
+                        2.0625,
+                        2.0955,
+                        2.3924999999999996,
+                        2.409,
+                        1.98,
+                        1.6829999999999998,
+                        1.782,
+                        1.6335000000000002,
+                        0.9734999999999999,
+                        0.33,
+                        0.066,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                "43709": {
+                    "chummed_bins": [],
+                    "chummed_kde": [],
+                    "unchummed_bins": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        3,
+                        1,
+                        1,
+                        1,
+                        1,
+                        1,
+                        0,
+                        0,
+                        2,
+                        1,
+                        1,
+                        1,
+                        2,
+                        1,
+                        4,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "unchummed_kde": [
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.021,
+                        0.105,
+                        0.294,
+                        0.609,
+                        0.9239999999999999,
+                        1.1025,
+                        1.1025,
+                        1.0395,
+                        0.966,
+                        0.8505,
+                        0.7140000000000001,
+                        0.6615,
+                        0.7559999999999999,
+                        0.9239999999999999,
+                        1.071,
+                        1.2285000000000001,
+                        1.449,
+                        1.7115,
+                        1.8375,
+                        1.638,
+                        1.134,
+                        0.588,
+                        0.2205,
+                        0.063
+                    ]
+                }
+            }
         }
     },
     "fish": {
@@ -2236,65 +2236,77 @@
             "name": "Excavator Catfish",
             "snagging": false,
             "tug": 3,
-            "hookset": 1
+            "hookset": null
         }
     },
     "rates": {
         "The beginning of time \u2014 7.0  (2024-06-28)": {},
         "7.0  (2024-06-28) \u2014 7.5  (2026-04-29)": {
-            "43852": {
-                "43712": {
-                    "catches": 160,
-                    "bayesian_misses": 64,
-                    "bitetime_low": 7.5,
-                    "bitetime_high": 16.0
-                },
-                "43713": {
-                    "catches": 11,
-                    "bayesian_misses": 3,
-                    "bitetime_low": 16.5,
-                    "bitetime_high": 30.5
-                },
-                "43708": {
-                    "catches": 1712,
-                    "bayesian_misses": 151,
-                    "bitetime_low": 7.0,
-                    "bitetime_high": 13.0
-                },
+            "43855": {
                 "43709": {
-                    "catches": 1503,
-                    "bayesian_misses": 88,
+                    "catches": 2906,
+                    "bayesian_misses": 12274,
                     "bitetime_low": 8.5,
                     "bitetime_high": 16.0
-                }
-            },
-            "43855": {
-                "43714": {
-                    "catches": 10534,
-                    "bayesian_misses": 241,
-                    "bitetime_low": 14.5,
-                    "bitetime_high": 25.0
-                },
-                "43712": {
-                    "catches": 7303,
-                    "bayesian_misses": 755,
-                    "bitetime_low": 11.0,
-                    "bitetime_high": 19.0
                 },
                 "43708": {
                     "catches": 3732,
-                    "bayesian_misses": 14364,
+                    "bayesian_misses": 13765,
                     "bitetime_low": 7.0,
                     "bitetime_high": 13.0
                 },
+                "43712": {
+                    "catches": 7303,
+                    "bayesian_misses": 752,
+                    "bitetime_low": 11.0,
+                    "bitetime_high": 19.0
+                },
+                "43714": {
+                    "catches": 10534,
+                    "bayesian_misses": 236,
+                    "bitetime_low": 14.5,
+                    "bitetime_high": 25.0
+                }
+            },
+            "29717": {
+                "43714": {
+                    "catches": 2225,
+                    "bayesian_misses": 88,
+                    "bitetime_low": 17.5,
+                    "bitetime_high": 28.0
+                },
+                "43712": {
+                    "catches": 1841,
+                    "bayesian_misses": 627,
+                    "bitetime_low": 9.5,
+                    "bitetime_high": 21.0
+                },
                 "43709": {
-                    "catches": 2906,
-                    "bayesian_misses": 12028,
-                    "bitetime_low": 8.5,
+                    "catches": 1246,
+                    "bayesian_misses": 2978,
+                    "bitetime_low": 11.5,
+                    "bitetime_high": 19.0
+                },
+                "43708": {
+                    "catches": 1486,
+                    "bayesian_misses": 3425,
+                    "bitetime_low": 10.0,
                     "bitetime_high": 16.0
                 }
             },
             "43858": {
+                "43708": {
+                    "catches": 265,
+                    "bayesian_misses": 11,
+                    "bitetime_low": 7.0,
+                    "bitetime_high": 13.0
+                },
+                "43709": {
+                    "catches": 194,
+                    "bayesian_misses": 10,
+                    "bitetime_low": 8.5,
+                    "bitetime_high": 16.5
+                },
                 "43714": {
                     "catches": 169,
                     "bayesian_misses": 7,
@@ -2306,118 +2318,106 @@
                     "bayesian_misses": 16,
                     "bitetime_low": 11.5,
                     "bitetime_high": 19.0
-                },
-                "43709": {
-                    "catches": 194,
-                    "bayesian_misses": 10,
-                    "bitetime_low": 8.5,
-                    "bitetime_high": 16.5
-                },
-                "43708": {
-                    "catches": 265,
-                    "bayesian_misses": 11,
-                    "bitetime_low": 7.0,
-                    "bitetime_high": 13.0
-                }
-            },
-            "29717": {
-                "43708": {
-                    "catches": 1486,
-                    "bayesian_misses": 3536,
-                    "bitetime_low": 10.0,
-                    "bitetime_high": 16.0
-                },
-                "43709": {
-                    "catches": 1246,
-                    "bayesian_misses": 2907,
-                    "bitetime_low": 11.5,
-                    "bitetime_high": 19.0
-                },
-                "43712": {
-                    "catches": 1841,
-                    "bayesian_misses": 658,
-                    "bitetime_low": 9.5,
-                    "bitetime_high": 21.0
-                },
-                "43714": {
-                    "catches": 2225,
-                    "bayesian_misses": 90,
-                    "bitetime_low": 17.5,
-                    "bitetime_high": 28.0
                 }
             },
             "43849": {
-                "43713": {
-                    "catches": 66,
-                    "bayesian_misses": 9,
-                    "bitetime_low": 19.0,
-                    "bitetime_high": 31.0
-                },
-                "43712": {
-                    "catches": 785,
-                    "bayesian_misses": 506,
-                    "bitetime_low": 7.5,
-                    "bitetime_high": 16.0
-                },
                 "43708": {
                     "catches": 5598,
-                    "bayesian_misses": 337,
+                    "bayesian_misses": 346,
                     "bitetime_low": 7.0,
                     "bitetime_high": 13.0
                 },
                 "43709": {
                     "catches": 5571,
-                    "bayesian_misses": 214,
+                    "bayesian_misses": 220,
                     "bitetime_low": 8.5,
                     "bitetime_high": 16.0
+                },
+                "43712": {
+                    "catches": 785,
+                    "bayesian_misses": 493,
+                    "bitetime_low": 7.5,
+                    "bitetime_high": 16.0
+                },
+                "43713": {
+                    "catches": 66,
+                    "bayesian_misses": 11,
+                    "bitetime_low": 19.0,
+                    "bitetime_high": 31.0
                 }
             },
             "28634": {
-                "43709": {
-                    "catches": 216,
-                    "bayesian_misses": 12,
-                    "bitetime_low": 13.0,
-                    "bitetime_high": 22.0
-                },
-                "43708": {
-                    "catches": 239,
-                    "bayesian_misses": 10,
-                    "bitetime_low": 10.5,
-                    "bitetime_high": 18.0
-                },
                 "43712": {
                     "catches": 57.0,
                     "bayesian_misses": 4.0,
-                    "bitetime_low": 6.0,
+                    "bitetime_low": 5.5,
+                    "bitetime_high": 16.0
+                },
+                "43708": {
+                    "catches": 239,
+                    "bayesian_misses": 9,
+                    "bitetime_low": 10.5,
+                    "bitetime_high": 18.0
+                },
+                "43709": {
+                    "catches": 216,
+                    "bayesian_misses": 11,
+                    "bitetime_low": 13.0,
+                    "bitetime_high": 22.0
+                }
+            },
+            "43852": {
+                "43712": {
+                    "catches": 160,
+                    "bayesian_misses": 63,
+                    "bitetime_low": 7.5,
+                    "bitetime_high": 16.0
+                },
+                "43713": {
+                    "catches": 11,
+                    "bayesian_misses": 2,
+                    "bitetime_low": 16.5,
+                    "bitetime_high": 30.5
+                },
+                "43708": {
+                    "catches": 1712,
+                    "bayesian_misses": 144,
+                    "bitetime_low": 7.0,
+                    "bitetime_high": 13.0
+                },
+                "43709": {
+                    "catches": 1503,
+                    "bayesian_misses": 89,
+                    "bitetime_low": 8.5,
                     "bitetime_high": 16.0
                 }
             }
         },
         "7.5  (2026-04-29) \u2014 present": {
             "43852": {
-                "43709": {
-                    "catches": 23,
-                    "bayesian_misses": 4,
-                    "bitetime_low": 8.5,
-                    "bitetime_high": 16.0
-                },
                 "43708": {
                     "catches": 39,
                     "bayesian_misses": 14,
                     "bitetime_low": 6.5,
                     "bitetime_high": 13.0
+                },
+                "43709": {
+                    "catches": 23,
+                    "bayesian_misses": 4,
+                    "bitetime_low": 8.5,
+                    "bitetime_high": 16.0
                 }
             },
             "43849": {
                 "43708": {
                     "catches": 228,
-                    "bayesian_misses": 27,
+                    "bayesian_misses": 23,
                     "bitetime_low": 4.0,
                     "bitetime_high": 13.0
                 },
                 "43709": {
                     "catches": 232,
-                    "bayesian_misses": 11,
+                    "bayesian_misses": 13,
                     "bitetime_low": 7.0,
                     "bitetime_high": 16.0
                 }
@@ -2437,7 +2437,7 @@
                 },
                 "43708": {
                     "catches": 75,
-                    "bayesian_misses": 5,
+                    "bayesian_misses": 6,
                     "bitetime_low": 9.5,
                     "bitetime_high": 16.0
                 },
@@ -2449,29 +2449,29 @@
                 }
             },
             "43855": {
-                "43712": {
-                    "catches": 144,
-                    "bayesian_misses": 408,
-                    "bitetime_low": 8.0,
-                    "bitetime_high": 19.0
-                },
                 "43714": {
                     "catches": 110,
-                    "bayesian_misses": 211,
+                    "bayesian_misses": 216,
                     "bitetime_low": 12.5,
                     "bitetime_high": 25.0
                 },
-                "43709": {
-                    "catches": 168,
-                    "bayesian_misses": 1029,
-                    "bitetime_low": 5.0,
-                    "bitetime_high": 16.0
+                "43712": {
+                    "catches": 144,
+                    "bayesian_misses": 250,
+                    "bitetime_low": 8.0,
+                    "bitetime_high": 19.0
                 },
                 "43708": {
                     "catches": 201,
-                    "bayesian_misses": 822,
+                    "bayesian_misses": 0,
                     "bitetime_low": 4.5,
                     "bitetime_high": 13.0
+                },
+                "43709": {
+                    "catches": 168,
+                    "bayesian_misses": 1042,
+                    "bitetime_low": 5.0,
+                    "bitetime_high": 16.0
                 }
             }
         }
