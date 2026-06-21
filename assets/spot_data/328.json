@@ -2925,77 +2925,65 @@
             "name": "Harlequin Queen",
             "snagging": false,
             "tug": 3,
-            "hookset": null
+            "hookset": 1
         }
     },
     "rates": {
         "The beginning of time \u2014 7.0  (2024-06-28)": {},
         "7.0  (2024-06-28) \u2014 7.2  (2025-03-25)": {
             "43855": {
-                "43781": {
-                    "catches": 404,
-                    "bayesian_misses": 154,
-                    "bitetime_low": 10.0,
-                    "bitetime_high": 19.0
-                },
                 "43780": {
                     "catches": 427,
                     "bayesian_misses": 110,
                     "bitetime_low": 7.0,
                     "bitetime_high": 15.5
                 },
-                "43782": {
-                    "catches": 168,
-                    "bayesian_misses": 9,
-                    "bitetime_low": 13.5,
-                    "bitetime_high": 22.0
+                "43781": {
+                    "catches": 404,
+                    "bayesian_misses": 154,
+                    "bitetime_low": 10.0,
+                    "bitetime_high": 19.0
                 },
                 "43783": {
                     "catches": 306,
                     "bayesian_misses": 8,
                     "bitetime_low": 13.0,
                     "bitetime_high": 22.0
+                },
+                "43782": {
+                    "catches": 168,
+                    "bayesian_misses": 9,
+                    "bitetime_low": 13.5,
+                    "bitetime_high": 22.0
                 }
             },
             "43858": {
-                "43782": {
-                    "catches": 22,
-                    "bayesian_misses": 0,
-                    "bitetime_low": 11.5,
-                    "bitetime_high": 19.0
-                },
                 "43783": {
                     "catches": 36,
                     "bayesian_misses": 2,
                     "bitetime_low": 13.0,
                     "bitetime_high": 22.0
                 },
-                "43780": {
-                    "catches": 48,
+                "43782": {
+                    "catches": 22,
                     "bayesian_misses": 0,
-                    "bitetime_low": 7.5,
-                    "bitetime_high": 13.5
+                    "bitetime_low": 11.5,
+                    "bitetime_high": 19.0
                 },
                 "43781": {
                     "catches": 30,
                     "bayesian_misses": 3,
                     "bitetime_low": 10.5,
                     "bitetime_high": 19.0
+                },
+                "43780": {
+                    "catches": 48,
+                    "bayesian_misses": 0,
+                    "bitetime_low": 7.5,
+                    "bitetime_high": 13.5
                 }
             },
             "29717": {
-                "43781": {
-                    "catches": 659,
-                    "bayesian_misses": 192,
-                    "bitetime_low": 13.0,
-                    "bitetime_high": 22.0
-                },
-                "43780": {
-                    "catches": 792,
-                    "bayesian_misses": 247,
-                    "bitetime_low": 10.0,
-                    "bitetime_high": 16.0
-                },
                 "43782": {
                     "catches": 464,
                     "bayesian_misses": 41,
@@ -3007,33 +2995,51 @@
                     "bayesian_misses": 43,
                     "bitetime_low": 15.0,
                     "bitetime_high": 24.0
+                },
+                "43781": {
+                    "catches": 659,
+                    "bayesian_misses": 192,
+                    "bitetime_low": 13.0,
+                    "bitetime_high": 22.0
+                },
+                "43780": {
+                    "catches": 792,
+                    "bayesian_misses": 247,
+                    "bitetime_low": 10.0,
+                    "bitetime_high": 16.0
                 }
             }
         },
         "7.2  (2025-03-25) \u2014 present": {
-            "43855": {
-                "43781": {
-                    "catches": 378,
-                    "bayesian_misses": 176,
-                    "bitetime_low": 10.0,
-                    "bitetime_high": 19.0
-                },
-                "43780": {
-                    "catches": 428,
-                    "bayesian_misses": 188,
-                    "bitetime_low": 7.0,
-                    "bitetime_high": 15.5
-                },
+            "43858": {
                 "43782": {
-                    "catches": 217,
-                    "bayesian_misses": 10,
-                    "bitetime_low": 13.5,
-                    "bitetime_high": 23.5
+                    "catches": 433,
+                    "bayesian_misses": 2,
+                    "bitetime_low": 11.5,
+                    "bitetime_high": 25.5
                 },
                 "43783": {
-                    "catches": 424,
-                    "bayesian_misses": 1,
+                    "catches": 426,
+                    "bayesian_misses": 0,
                     "bitetime_low": 13.0,
+                    "bitetime_high": 26.0
+                },
+                "47995": {
+                    "catches": 100.00000000000067,
+                    "bayesian_misses": 91.0,
+                    "bitetime_low": 13.5,
+                    "bitetime_high": 33.0
+                },
+                "43780": {
+                    "catches": 599,
+                    "bayesian_misses": 7,
+                    "bitetime_low": 7.0,
+                    "bitetime_high": 22.5
+                },
+                "43781": {
+                    "catches": 471,
+                    "bayesian_misses": 0,
+                    "bitetime_low": 9.5,
                     "bitetime_high": 23.0
                 }
             },
@@ -3063,36 +3069,30 @@
                     "bitetime_high": 25.0
                 }
             },
-            "43858": {
-                "43783": {
-                    "catches": 426,
-                    "bayesian_misses": 0,
-                    "bitetime_low": 13.0,
-                    "bitetime_high": 26.0
-                },
-                "43782": {
-                    "catches": 433,
-                    "bayesian_misses": 2,
-                    "bitetime_low": 11.5,
-                    "bitetime_high": 25.5
-                },
-                "47995": {
-                    "catches": 100.00000000000067,
-                    "bayesian_misses": 91.0,
-                    "bitetime_low": 13.5,
-                    "bitetime_high": 33.0
-                },
+            "43855": {
                 "43781": {
-                    "catches": 471,
-                    "bayesian_misses": 0,
-                    "bitetime_low": 9.5,
-                    "bitetime_high": 23.0
+                    "catches": 378,
+                    "bayesian_misses": 176,
+                    "bitetime_low": 10.0,
+                    "bitetime_high": 19.0
                 },
                 "43780": {
-                    "catches": 599,
-                    "bayesian_misses": 7,
+                    "catches": 428,
+                    "bayesian_misses": 188,
                     "bitetime_low": 7.0,
-                    "bitetime_high": 22.5
+                    "bitetime_high": 15.5
+                },
+                "43783": {
+                    "catches": 424,
+                    "bayesian_misses": 1,
+                    "bitetime_low": 13.0,
+                    "bitetime_high": 23.0
+                },
+                "43782": {
+                    "catches": 217,
+                    "bayesian_misses": 10,
+                    "bitetime_low": 13.5,
+                    "bitetime_high": 23.5
                 }
             }
         }

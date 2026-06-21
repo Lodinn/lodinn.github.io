@@ -3593,25 +3593,13 @@
             "name": "Thunderswift Trout",
             "snagging": false,
             "tug": 3,
-            "hookset": null
+            "hookset": 1
         }
     },
     "rates": {
         "The beginning of time \u2014 7.0  (2024-06-28)": {},
         "7.0  (2024-06-28) \u2014 7.1  (2024-11-12)": {
             "43858": {
-                "43770": {
-                    "catches": 14,
-                    "bayesian_misses": 4,
-                    "bitetime_low": 14.0,
-                    "bitetime_high": 25.0
-                },
-                "43769": {
-                    "catches": 32,
-                    "bayesian_misses": 7,
-                    "bitetime_low": 12.0,
-                    "bitetime_high": 22.0
-                },
                 "43765": {
                     "catches": 22,
                     "bayesian_misses": 16,
@@ -3623,21 +3611,21 @@
                     "bayesian_misses": 11,
                     "bitetime_low": 8.5,
                     "bitetime_high": 16.5
+                },
+                "43770": {
+                    "catches": 14,
+                    "bayesian_misses": 4,
+                    "bitetime_low": 14.0,
+                    "bitetime_high": 25.0
+                },
+                "43769": {
+                    "catches": 32,
+                    "bayesian_misses": 7,
+                    "bitetime_low": 12.0,
+                    "bitetime_high": 22.0
                 }
             },
             "43855": {
-                "43765": {
-                    "catches": 420,
-                    "bayesian_misses": 114,
-                    "bitetime_low": 7.0,
-                    "bitetime_high": 14.0
-                },
-                "43766": {
-                    "catches": 451,
-                    "bayesian_misses": 151,
-                    "bitetime_low": 8.5,
-                    "bitetime_high": 16.0
-                },
                 "43770": {
                     "catches": 215,
                     "bayesian_misses": 15,
@@ -3649,21 +3637,21 @@
                     "bayesian_misses": 22,
                     "bitetime_low": 14.5,
                     "bitetime_high": 25.0
+                },
+                "43766": {
+                    "catches": 451,
+                    "bayesian_misses": 151,
+                    "bitetime_low": 8.5,
+                    "bitetime_high": 16.0
+                },
+                "43765": {
+                    "catches": 420,
+                    "bayesian_misses": 114,
+                    "bitetime_low": 7.0,
+                    "bitetime_high": 14.0
                 }
             },
             "29717": {
-                "43770": {
-                    "catches": 570,
-                    "bayesian_misses": 121,
-                    "bitetime_low": 16.5,
-                    "bitetime_high": 28.0
-                },
-                "43769": {
-                    "catches": 617,
-                    "bayesian_misses": 37,
-                    "bitetime_low": 16.5,
-                    "bitetime_high": 27.0
-                },
                 "43765": {
                     "catches": 694,
                     "bayesian_misses": 282,
@@ -3675,23 +3663,55 @@
                     "bayesian_misses": 234,
                     "bitetime_low": 11.5,
                     "bitetime_high": 19.0
+                },
+                "43770": {
+                    "catches": 570,
+                    "bayesian_misses": 121,
+                    "bitetime_low": 16.5,
+                    "bitetime_high": 28.0
+                },
+                "43769": {
+                    "catches": 617,
+                    "bayesian_misses": 37,
+                    "bitetime_low": 16.5,
+                    "bitetime_high": 27.0
                 }
             }
         },
         "7.1  (2024-11-12) \u2014 present": {
-            "43855": {
-                "43765": {
-                    "catches": 393,
-                    "bayesian_misses": 207,
-                    "bitetime_low": 7.0,
-                    "bitetime_high": 15.0
+            "29717": {
+                "44346": {
+                    "catches": 3.3999999999999995,
+                    "bayesian_misses": 5.0,
+                    "bitetime_low": 24.0,
+                    "bitetime_high": 35.0
                 },
-                "43766": {
-                    "catches": 375,
-                    "bayesian_misses": 310,
-                    "bitetime_low": 8.5,
+                "43769": {
+                    "catches": 709,
+                    "bayesian_misses": 17,
+                    "bitetime_low": 16.5,
+                    "bitetime_high": 27.0
+                },
+                "43770": {
+                    "catches": 540,
+                    "bayesian_misses": 74,
+                    "bitetime_low": 16.0,
+                    "bitetime_high": 28.0
+                },
+                "43765": {
+                    "catches": 488,
+                    "bayesian_misses": 429,
+                    "bitetime_low": 10.0,
                     "bitetime_high": 16.5
                 },
+                "43766": {
+                    "catches": 521,
+                    "bayesian_misses": 519,
+                    "bitetime_low": 11.5,
+                    "bitetime_high": 19.0
+                }
+            },
+            "43855": {
                 "43769": {
                     "catches": 627,
                     "bayesian_misses": 19,
@@ -3703,20 +3723,38 @@
                     "bayesian_misses": 53,
                     "bitetime_low": 16.0,
                     "bitetime_high": 28.0
+                },
+                "43765": {
+                    "catches": 393,
+                    "bayesian_misses": 207,
+                    "bitetime_low": 7.0,
+                    "bitetime_high": 15.0
+                },
+                "43766": {
+                    "catches": 375,
+                    "bayesian_misses": 310,
+                    "bitetime_low": 8.5,
+                    "bitetime_high": 16.5
                 }
             },
             "43858": {
-                "43765": {
-                    "catches": 418,
-                    "bayesian_misses": 148,
-                    "bitetime_low": 7.0,
-                    "bitetime_high": 23.5
+                "44346": {
+                    "catches": 102.70000000000047,
+                    "bayesian_misses": 90.0,
+                    "bitetime_low": 22.5,
+                    "bitetime_high": 35.5
                 },
                 "43766": {
                     "catches": 410,
                     "bayesian_misses": 187,
                     "bitetime_low": 8.5,
                     "bitetime_high": 22.5
+                },
+                "43765": {
+                    "catches": 418,
+                    "bayesian_misses": 148,
+                    "bitetime_low": 7.0,
+                    "bitetime_high": 23.5
                 },
                 "43769": {
                     "catches": 326,
@@ -3729,44 +3767,6 @@
                     "bayesian_misses": 145,
                     "bitetime_low": 13.5,
                     "bitetime_high": 26.0
-                },
-                "44346": {
-                    "catches": 102.70000000000047,
-                    "bayesian_misses": 90.0,
-                    "bitetime_low": 22.5,
-                    "bitetime_high": 35.5
-                }
-            },
-            "29717": {
-                "43770": {
-                    "catches": 540,
-                    "bayesian_misses": 74,
-                    "bitetime_low": 16.0,
-                    "bitetime_high": 28.0
-                },
-                "43769": {
-                    "catches": 709,
-                    "bayesian_misses": 17,
-                    "bitetime_low": 16.5,
-                    "bitetime_high": 27.0
-                },
-                "43766": {
-                    "catches": 521,
-                    "bayesian_misses": 519,
-                    "bitetime_low": 11.5,
-                    "bitetime_high": 19.0
-                },
-                "43765": {
-                    "catches": 488,
-                    "bayesian_misses": 429,
-                    "bitetime_low": 10.0,
-                    "bitetime_high": 16.5
-                },
-                "44346": {
-                    "catches": 3.3999999999999995,
-                    "bayesian_misses": 5.0,
-                    "bitetime_low": 24.0,
-                    "bitetime_high": 35.0
                 }
             }
         }

@@ -3343,25 +3343,13 @@
             "name": "Heirloom Goldgrouper",
             "snagging": false,
             "tug": 3,
-            "hookset": null
+            "hookset": 1
         }
     },
     "rates": {
         "The beginning of time \u2014 7.0  (2024-06-28)": {},
         "7.0  (2024-06-28) \u2014 7.4  (2025-12-16)": {
             "29717": {
-                "43772": {
-                    "catches": 518,
-                    "bayesian_misses": 2023,
-                    "bitetime_low": 11.5,
-                    "bitetime_high": 19.5
-                },
-                "43771": {
-                    "catches": 626,
-                    "bayesian_misses": 2834,
-                    "bitetime_low": 10.0,
-                    "bitetime_high": 16.5
-                },
                 "43775": {
                     "catches": 2402,
                     "bayesian_misses": 77,
@@ -3373,21 +3361,21 @@
                     "bayesian_misses": 149,
                     "bitetime_low": 13.0,
                     "bitetime_high": 22.0
+                },
+                "43771": {
+                    "catches": 626,
+                    "bayesian_misses": 2834,
+                    "bitetime_low": 10.0,
+                    "bitetime_high": 16.5
+                },
+                "43772": {
+                    "catches": 518,
+                    "bayesian_misses": 2023,
+                    "bitetime_low": 11.5,
+                    "bitetime_high": 19.5
                 }
             },
             "43858": {
-                "43775": {
-                    "catches": 190,
-                    "bayesian_misses": 5,
-                    "bitetime_low": 19.0,
-                    "bitetime_high": 31.0
-                },
-                "43773": {
-                    "catches": 170,
-                    "bayesian_misses": 43,
-                    "bitetime_low": 10.5,
-                    "bitetime_high": 19.0
-                },
                 "43772": {
                     "catches": 50,
                     "bayesian_misses": 173,
@@ -3399,20 +3387,32 @@
                     "bayesian_misses": 263,
                     "bitetime_low": 7.0,
                     "bitetime_high": 19.0
+                },
+                "43773": {
+                    "catches": 170,
+                    "bayesian_misses": 43,
+                    "bitetime_low": 10.5,
+                    "bitetime_high": 19.0
+                },
+                "43775": {
+                    "catches": 190,
+                    "bayesian_misses": 5,
+                    "bitetime_low": 19.0,
+                    "bitetime_high": 31.0
                 }
             },
             "43855": {
-                "43773": {
-                    "catches": 3176,
-                    "bayesian_misses": 379,
-                    "bitetime_low": 10.0,
-                    "bitetime_high": 19.5
-                },
                 "43775": {
                     "catches": 1924,
                     "bayesian_misses": 76,
                     "bitetime_low": 21.5,
                     "bitetime_high": 33.0
+                },
+                "43773": {
+                    "catches": 3176,
+                    "bayesian_misses": 379,
+                    "bitetime_low": 10.0,
+                    "bitetime_high": 19.5
                 },
                 "43771": {
                     "catches": 1543,
@@ -3429,50 +3429,44 @@
             }
         },
         "7.4  (2025-12-16) \u2014 present": {
-            "43855": {
-                "49799": {
-                    "catches": 40.400000000000006,
-                    "bayesian_misses": 36.0,
-                    "bitetime_low": 21.5,
-                    "bitetime_high": 35.5
+            "43858": {
+                "43775": {
+                    "catches": 242,
+                    "bayesian_misses": 2,
+                    "bitetime_low": 19.0,
+                    "bitetime_high": 31.0
                 },
                 "43773": {
-                    "catches": 946,
-                    "bayesian_misses": 1370,
-                    "bitetime_low": 10.0,
-                    "bitetime_high": 22.0
-                },
-                "43775": {
-                    "catches": 258,
-                    "bayesian_misses": 247,
-                    "bitetime_low": 21.5,
-                    "bitetime_high": 33.0
+                    "catches": 370,
+                    "bayesian_misses": 4,
+                    "bitetime_low": 10.5,
+                    "bitetime_high": 19.5
                 },
                 "43772": {
-                    "catches": 574,
-                    "bayesian_misses": 3402,
-                    "bitetime_low": 8.0,
+                    "catches": 137,
+                    "bayesian_misses": 3,
+                    "bitetime_low": 8.5,
                     "bitetime_high": 16.5
                 },
                 "43771": {
-                    "catches": 703,
-                    "bayesian_misses": 3748,
-                    "bitetime_low": 6.0,
-                    "bitetime_high": 15.5
+                    "catches": 173,
+                    "bayesian_misses": 7,
+                    "bitetime_low": 7.0,
+                    "bitetime_high": 13.5
                 }
             },
             "29717": {
-                "43771": {
-                    "catches": 168,
-                    "bayesian_misses": 126,
-                    "bitetime_low": 8.5,
-                    "bitetime_high": 16.0
-                },
                 "43772": {
                     "catches": 128,
                     "bayesian_misses": 147,
                     "bitetime_low": 11.0,
                     "bitetime_high": 19.0
+                },
+                "43771": {
+                    "catches": 168,
+                    "bayesian_misses": 126,
+                    "bitetime_low": 8.5,
+                    "bitetime_high": 16.0
                 },
                 "43773": {
                     "catches": 231,
@@ -3487,29 +3481,35 @@
                     "bitetime_high": 33.0
                 }
             },
-            "43858": {
-                "43773": {
-                    "catches": 370,
-                    "bayesian_misses": 4,
-                    "bitetime_low": 10.5,
-                    "bitetime_high": 19.5
-                },
+            "43855": {
                 "43775": {
-                    "catches": 242,
-                    "bayesian_misses": 2,
-                    "bitetime_low": 19.0,
-                    "bitetime_high": 31.0
+                    "catches": 258,
+                    "bayesian_misses": 247,
+                    "bitetime_low": 21.5,
+                    "bitetime_high": 33.0
+                },
+                "43773": {
+                    "catches": 946,
+                    "bayesian_misses": 1370,
+                    "bitetime_low": 10.0,
+                    "bitetime_high": 22.0
+                },
+                "49799": {
+                    "catches": 40.400000000000006,
+                    "bayesian_misses": 36.0,
+                    "bitetime_low": 21.5,
+                    "bitetime_high": 35.5
                 },
                 "43771": {
-                    "catches": 173,
-                    "bayesian_misses": 7,
-                    "bitetime_low": 7.0,
-                    "bitetime_high": 13.5
+                    "catches": 703,
+                    "bayesian_misses": 3748,
+                    "bitetime_low": 6.0,
+                    "bitetime_high": 15.5
                 },
                 "43772": {
-                    "catches": 137,
-                    "bayesian_misses": 3,
-                    "bitetime_low": 8.5,
+                    "catches": 574,
+                    "bayesian_misses": 3402,
+                    "bitetime_low": 8.0,
                     "bitetime_high": 16.5
                 }
             }
